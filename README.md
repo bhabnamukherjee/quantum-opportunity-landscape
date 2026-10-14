@@ -3,7 +3,7 @@
 **Where is the money in quantum, now? Not in the computers themselves, but in the ecosystem that secures and enables them.**
 
 `LLM analysis pipeline` · `Market strategy` · `Opportunity mapping` · `Responsible AI use`
-Carleton University, TIMG 5303 (Machine Learning for Technology Entrepreneurship) · Winter 2026 · Team of 5
+Carleton University, TIMG 5303 (Machine Learning for Technology Entrepreneurship) · Winter 2026
 
 ---
 
@@ -57,6 +57,3 @@ The corpus reflects market narratives and signals, not verified technical perfor
 One of five team members on the analysis and report.
 
 **Team:** Milena Sajjan, Bhabna Mukherjee, 'Soji Adewusi, Elizabeth Ibebuogu, Sara Rahbarnoudehi · Supervised by Prof. Stoyan Tanev
-
-## Files
-- [`report.pdf`](report.pdf): full report, including the LLM-use disclosure
